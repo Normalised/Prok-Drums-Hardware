@@ -5,3 +5,5 @@ Prok Drums are open hardware, they are a modified version of the Music Thing Mod
 If you use any work from this hardware, you should credit Tom Whitwell, and you must republish any changes you make under the same license. 
 
 Please remove all references to Prok and Thonk from the PCB silkscreen and project name before republishing.
+
+The names Prok and Thonk, their associated logos and module names are not open source and should not be used in any derivative works.
